@@ -1,0 +1,4 @@
+pandas
+matplotib
+seaborn
+numpy
