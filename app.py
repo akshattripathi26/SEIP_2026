@@ -1,6 +1,6 @@
 import streamlit as st
 import gzip
-import matplotlib.pyplot as plt
+import matplotlib as plt
 import simplejson # Keep import in case it's used elsewhere, but not in parse for now.
 import pandas as pd
 import zlib # Import zlib to catch its specific errors
